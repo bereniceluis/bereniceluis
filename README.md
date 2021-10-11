@@ -1,4 +1,4 @@
-- 👋 Hi, My username @muichii is inspired on Kimetsu No Yaiba's character.
+- 👋 Hello!
 - 👀 I’m interested in learning and finding new resources that can help me learn.  
 - 🌱 I’m currently learning Python for Data Science.
 - 💞️ I’m looking to collaborate on Python projects! I think it'll be useful for me to learn and gain from others as well .
