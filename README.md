@@ -1,6 +1,6 @@
 - 👋 Hello!
 - 👀 I’m interested in learning and finding new resources that can help me learn.  
-- 🌱 I’m currently learning Python for Data Science.
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python projects! I think it'll be useful for me to learn and gain from others as well .
 - 📫 How to reach me: 
   Discord:  mui#0962 
